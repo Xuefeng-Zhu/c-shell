@@ -1,4 +1,7 @@
-/** @file shell.c */
+/**
+ * @file shell.c 
+ * Author: Xuefeng Zhu
+*/
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
