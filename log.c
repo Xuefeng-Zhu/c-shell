@@ -1,4 +1,7 @@
-/** @file log.c */
+/** 
+ * @file log.c 
+ * Author: Xuefeng Zhu
+*/
 #include <stdlib.h>
 #include <string.h>
 #include "log.h"
